@@ -1,0 +1,9 @@
+1. Andreas Griewan, 2000 Evaluating Derivatives : Principles and Tech	
+niques of Algorithmic Dierentiation Society for Industrial and Applied
+Mathematics, Philadelphia, Pennsylvania
+2. Automatic Dierentiation of Algorithms
+Michael BartholomewBiggs Steven Brown Bruce Christianson
+and Laurence Dixon
+Numerical Optimisation Centre University of Hertfordshire
+Hateld England Europe
+July 17 2000
